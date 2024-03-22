@@ -1,6 +1,8 @@
 +++
 archetype = "home"
 title = "mgCSN"
+
+
 +++
 
 

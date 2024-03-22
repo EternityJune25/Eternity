@@ -8,6 +8,10 @@
     <loc>https://example.org/code/index.html</loc>
   </url>
   <url>
+    <loc>https://example.org/api/index.html</loc>
+    <lastmod>2024-03-18T20:02:48+08:00</lastmod>
+  </url>
+  <url>
     <loc>https://example.org/index.html</loc>
     <lastmod>2024-03-18T20:02:48+08:00</lastmod>
   </url>
@@ -20,5 +24,8 @@
   </url>
   <url>
     <loc>https://example.org/tags/index.html</loc>
+  </url>
+  <url>
+    <loc>https://example.org/basics/third-content/index.html</loc>
   </url>
 </urlset>

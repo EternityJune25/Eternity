@@ -1,4 +1,20 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
 theme = 'hugo-theme-relearn'
+
+
+[params]
+themeVariant = [
+  	{ identifier = "neon"           },
+	{ identifier = "green"          },
+	{ identifier = "relearn-auto",  name = "Relearn Light/Dark", auto = [] },
+	{ identifier = "relearn-light"  },
+	{ identifier = "relearn-dark"   },
+	{ identifier = "relearn-bright" },
+	{ identifier = "zen-auto",      name = "Zen Light/Dark", auto = [ "zen-light", "zen-dark" ] },
+	{ identifier = "zen-light"      },
+	{ identifier = "zen-dark"       },
+	{ identifier = "learn"          },
+	{ identifier = "blue"           },
+	{ identifier = "red"            }
+]
