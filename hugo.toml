@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 theme = 'hugo-theme-relearn'
-
+menuPre = "<i class='fab fa-github'>github</i> "
 
 [params]
 themeVariant = [
