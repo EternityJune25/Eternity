@@ -4,6 +4,7 @@ theme = 'hugo-theme-relearn'
 menuPre = "<i class='fab fa-github'>github</i> "
 
 [params]
+favicon = "images/favicon.ico"
 themeVariant = [
   	{ identifier = "neon"           },
 	{ identifier = "green"          },
